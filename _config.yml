@@ -1,12 +1,12 @@
 # Site settings
 title: Laura Nest Wallace
-description: Project management professional and web development specialist with fundamental knowledge of design and front-end development, project management, and content editing.
+description: Hello
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Laura Nest Wallace
-user_description: Portfolio
+user_description: Project management professional and web development specialist with fundamental knowledge of design and front-end development, project management, and content editing.
 email: lauranestwallace@gmail.com
 # twitter_username: lorem_ipsum
 github_username:  laurawbrooklyn.github.io
