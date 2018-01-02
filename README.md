@@ -1,7 +1,4 @@
 # My Portfolio
-
-![](./particle.jpg)
-
 This is the Portfolio for Laura Nest Wallace....
 
 Technologies Used:
