@@ -1,12 +1,12 @@
 # Site settings
-title: Hi, I'm Laura. I'm a project management professional and web-developer available to helpf with your technical project needs.
+title: Hi, I'm Laura. I'm a Brooklyn based project management professional available to help with your technical project needs.  I also do web development too!
 description: Hello
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Laura Nest Wallace
-user_description: Laura is a Brooklyn, New York based project management professional and web development specialist. She is available to help with your technical project management, web-development and content editing needs.
+user_description: Laura is a Brooklyn, New York based project management professional. She is available to help with IT project management, content editing and web development projects.
 email: lauranestwallace@gmail.com
 # twitter_username: lorem_ipsum
 github_username:  laurawbrooklyn.github.io
