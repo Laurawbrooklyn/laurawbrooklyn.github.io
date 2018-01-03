@@ -18,19 +18,19 @@
   text-align: center;
   color:#FFF;
   position: absolute;
-  top: 30%;
+  top: 20%;
   left: 50%;
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .site-title {
-    font-size: 50px;
+    font-size: 40px;
     display: block;
     line-height: 1;
     color: #FFF;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 60px;
+      font-size: 50px;
     }
   }
   .site-description {
